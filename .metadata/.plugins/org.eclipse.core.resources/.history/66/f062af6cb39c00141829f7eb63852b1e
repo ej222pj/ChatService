@@ -1,0 +1,5 @@
+package info.androidhive.webgroupchat;
+
+public class MessagesListAdapter {
+
+}

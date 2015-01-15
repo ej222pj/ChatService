@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;other&apos; to &apos;info.androidhive.webgroupchat.other&apos;&#x0D;&#x0A;- Original project: &apos;WebMobileGroupChat&apos;&#x0D;&#x0A;- Original element: &apos;WebMobileGroupChat/src/other&apos;&#x0D;&#x0A;- Renamed element: &apos;WebMobileGroupChat/src/info.androidhive.webgroupchat.other&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;other&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;other" name="info.androidhive.webgroupchat.other" qualified="false" references="true" stamp="1421325342634" textual="false" version="1.0"/>
+</session>
